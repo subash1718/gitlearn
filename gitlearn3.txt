@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 YYYYYYYYYYYYYYYYYYYYYYYThis is a just normal text fileYYYYYYYYYYYYYYY
+=======
+XXXXXXXXXXXXXXXXXXXXXXXThis is a just normal text fileXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+>>>>>>> origin/main
